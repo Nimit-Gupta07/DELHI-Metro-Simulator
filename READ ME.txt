@@ -22,7 +22,7 @@ pip install streamlit
 streamlit run app.py
 
 Live Demo
-
+https://delhi-metro-simulator-qq5mf996r9ksuaqo2o7bhf.streamlit.app/
 
 Built With
 Python, Streamlit
