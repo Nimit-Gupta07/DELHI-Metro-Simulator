@@ -1,0 +1,161 @@
+Line,      Station,                             TIME(to next station)Interchange Point
+-----------------------------------------------------------------------------------------------,
+BLUE LINE1 (Main),
+Blue1,      Dwarka Sector 21,                    4  ,                 No
+Blue1,      Dwarka Sector 8,                     4  ,                 No
+Blue1,      Dwarka Sector 9,                     4  ,                 No
+Blue1,      Dwarka Sector 10,                    4  ,                 No
+Blue1,      Dwarka Sector 11,                    4  ,                 No
+Blue1,      Dwarka Sector 12,                    4  ,                 No
+Blue1,      Dwarka Sector 13,                    2  ,                 No
+Blue1,      Dwarka Sector 14,                    2  ,                 No
+Blue1,      Dwarka,                              2  ,                 No
+Blue1,      Dwarka Mor,                          4  ,                 No
+Blue1,      Nawada,                              2  ,                 No
+Blue1,      Uttam Nagar West,                    2  ,                 No
+Blue1,      Uttam Nagar East,                    2  ,                 No
+Blue1,      Janakpuri West,                      2  ,                 Yes|Magenta
+Blue1,      Janakpuri East,                      2  ,                 No
+Blue1,      Tilak Nagar,                         2  ,                 No
+Blue1,      Subhash Nagar,                       2  ,                 No
+Blue1,      Tagore Garden,                       2  ,                 No
+Blue1,      Rajouri Garden,                      2  ,                 Yes|Pink
+Blue1,      Ramesh Nagar,                        2  ,                 No
+Blue1,      Moti Nagar,                          2  ,                 No
+Blue1,      Kirti Nagar,                         2  ,                 No
+Blue1,      Shadipur,                            2  ,                 No
+Blue1,      Patel Nagar,                         2  ,                 No
+Blue1,      Rajendra Place,                      2  ,                 No
+Blue1,      Karol Bagh,                          2  ,                 No
+Blue1,      Jhandewalan,                         2  ,                 No
+Blue1,      RK Ashram Marg,                      2  ,                 No
+Blue1,      Rajiv Chowk,                         2  ,                 No
+Blue1,      Barakhamba Road,                     2  ,                 No
+Blue1,      Mandi House,                         2  ,                 No
+Blue1,      Pragati Maidan,                      2  ,                 No
+Blue1,      Indraprastha,                        4  ,                 No
+Blue1,      Yamuna Bank,                         4  ,                 Yes|Blue2
+Blue1,      Akshardham,                          4  ,                 No
+Blue1,      Mayur Vihar Phase 1,                 2  ,                 Yes|Pink
+Blue1,      Mayur Vihar Ext,                     2  ,                 No
+Blue1,      New Ashok Nagar,                     2  ,                 No
+Blue1,      Noida Sector 15,                     2  ,                 No
+Blue1,      Noida Sector 16,                     2  ,                 No
+Blue1,      Noida Sector 18,                     2  ,                 No
+Blue1,      Botanical Garden,                    2  ,                 Yes|Magenta
+Blue1,      Noida City Centre,                   2  ,                 No
+Blue1,      Noida Sector 34,                     2  ,                 No
+Blue1,      Golf Course,                         4  ,                 No
+Blue1,      Noida Sector 52,                     2  ,                 No
+Blue1,      Noida Sector 61,                     2  ,                 No
+Blue1,      Noida Sector 59,                     2  ,                 No
+Blue1,      Noida Sector 62,                     2  ,                 No
+Blue1,      Noida Electronic City,               0  ,                 No
+BLUE LINE2 
+Blue2,      Dwarka Sector 21,                    4  ,                 No
+Blue2,      Dwarka Sector 8,                     4  ,                 No
+Blue2,      Dwarka Sector 9,                     4  ,                 No
+Blue2,      Dwarka Sector 10,                    4  ,                 No
+Blue2,      Dwarka Sector 11,                    4  ,                 No
+Blue2,      Dwarka Sector 12,                    4  ,                 No
+Blue2,      Dwarka Sector 13,                    2  ,                 No
+Blue2,      Dwarka Sector 14,                    2  ,                 No
+Blue2,      Dwarka,                              2  ,                 No
+Blue2,      Dwarka Mor,                          4  ,                 No
+Blue2,      Nawada,                              2  ,                 No
+Blue2,      Uttam Nagar West,                    2  ,                 No
+Blue2,      Uttam Nagar East,                    2  ,                 No
+Blue2,      Janakpuri West,                      2  ,                 Yes|Magenta
+Blue2,      Janakpuri East,                      2  ,                 No
+Blue2,      Tilak Nagar,                         2  ,                 No
+Blue2,      Subhash Nagar,                       2  ,                 No
+Blue2,      Tagore Garden,                       2  ,                 No
+Blue2,      Rajouri Garden,                      2  ,                 Yes|Pink
+Blue2,      Ramesh Nagar,                        2  ,                 No
+Blue2,      Moti Nagar,                          2  ,                 No
+Blue2,      Kirti Nagar,                         2  ,                 No
+Blue2,      Shadipur,                            2  ,                 No
+Blue2,      Patel Nagar,                         2  ,                 No
+Blue2,      Rajendra Place,                      2  ,                 No
+Blue2,      Karol Bagh,                          2  ,                 No
+Blue2,      Jhandewalan,                         2  ,                 No
+Blue2,      RK Ashram Marg,                      2  ,                 No
+Blue2,      Rajiv Chowk,                         2  ,                 No
+Blue2,      Barakhamba Road,                     2  ,                 No
+Blue2,      Mandi House,                         2  ,                 No
+Blue2,      Pragati Maidan,                      2  ,                 No
+Blue2,      Indraprastha,                        4  ,                 No
+Blue2,      Yamuna Bank,                         2  ,                 Yes|Blue1
+Blue2,      Laxmi Nagar,                         4  ,                 No
+Blue2,      Nirman Vihar,                        2  ,                 No
+Blue2,      Preet Vihar,                         2  ,                 No
+Blue2,      Karkarduma,                          2  ,                 Yes|Pink
+Blue2,      Anand Vihar,                         2  ,                 Yes|Pink
+Blue2,      Kaushambi,                           2  ,                 No
+Blue2,      Vaishali,                            0  ,                 No
+MAGENTA LINE           
+Magenta,   Krishna Park Extension,              2  ,                 No
+Magenta,   Janakpuri West,                      2  ,                 Yes|Blue
+Magenta,   Dabri Mor,                           2  ,                 No
+Magenta,   Dashrath Puri,                       2  ,                 No
+Magenta,   Palam,                               2  ,                 No
+Magenta,   Sadar Bazaar Cantonment,             2  ,                 No
+Magenta,   IGI Airport T1,                      2  ,                 No
+Magenta,   Shankar Vihar,                       2  ,                 No
+Magenta,   Vasant Vihar,                        2  ,                 No
+Magenta,   Munirka,                             2  ,                 No
+Magenta,   RK Puram,                            2  ,                 No
+Magenta,   IIT Delhi,                           2  ,                 No
+Magenta,   Hauz Khas,                           2  ,                 No
+Magenta,   Panchsheel Park,                     2  ,                 No
+Magenta,   Chirag Delhi,                        2  ,                 No
+Magenta,   Greater Kailash,                     2  ,                 No
+Magenta,   Nehru Enclave,                       2  ,                 No
+Magenta,   Kalkaji Mandir,                      2  ,                 No
+Magenta,   Okhla NSIC,                          2  ,                 No
+Magenta,   Sukhdev Vihar,                       2  ,                 No
+Magenta,   Jamia Millia Islamia,                2  ,                 No
+Magenta,   Okhla Vihar,                         2  ,                 No
+Magenta,   Jasola Vihar Shaheen Bagh,           2  ,                 No
+Magenta,   Kalindi Kunj,                        2  ,                 No
+Magenta,   Okhla Bird Sanctuary,                2  ,                 No
+Magenta,   Botanical Garden,                    0  ,                 Yes|Blue
+PINK LINE
+Pink,      Majlis Park,                         2  ,                 No
+Pink,      Azadpur,                             4  ,                 No
+Pink,      Shalimar Bagh,                       2  ,                 No
+Pink,      Netaji Subhash Place,                2  ,                 No
+Pink,      Shakurpur,                           2  ,                 No
+Pink,      Punjabi Bagh West,                   2  ,                 No
+Pink,      ESI Hospital,                        2  ,                 No
+Pink,      Rajouri Garden,                      2  ,                 Yes|Blue
+Pink,      Mayapuri,                            2  ,                 No
+Pink,      Naraina Vihar,                       4  ,                 No
+Pink,      Delhi Cantt,                         4  ,                 No
+Pink,      Durgabai Deshmukh South Campus,      2  ,                 No
+Pink,      Sir Vishweshwaraiah Moti Bagh,       2  ,                 No
+Pink,      Bhikaji Cama Place,                  2  ,                 No
+Pink,      Sarojini Nagar,                      2  ,                 No
+Pink,      INA,                                 2  ,                 No
+Pink,      South Extension,                     2  ,                 No
+Pink,      Lajpat Nagar,                        2  ,                 No
+Pink,      Vinobapuri,                          2  ,                 No
+Pink,      Ashram,                              2  ,                 No
+Pink,      Hazrat Nizamuddin,                   4  ,                 No
+Pink,      Mayur Vihar Phase 1,                 2  ,                 Yes|Blue
+Pink,      Mayur Vihar Pocket 1,                2  ,                 No
+Pink,      Trilokpuri Sanjay Lake,              2  ,                 No
+Pink,      Vinod Nagar East,                    2  ,                 No
+Pink,      Mandawali West,                      2  ,                 No
+Pink,      IP Extension,                        2  ,                 No
+Pink,      Anand Vihar,                         2  ,                 Yes|Blue
+Pink,      Karkarduma,                          2  ,                 Yes|Blue
+Pink,      Karkarduma Court,                    2  ,                 No
+Pink,      Krishna Nagar,                       2  ,                 No
+Pink,      East Azad Nagar,                     2  ,                 No
+Pink,      Welcome,                             2  ,                 No
+Pink,      Jaffrabad,                           2  ,                 No
+Pink,      Maujpur,                             4  ,                 No
+Pink,      Gokulpuri,                           2  ,                 No
+Pink,      Johri Enclave,                       2  ,                 No
+Pink,      Shiv Vihar,                          0  ,                 No
